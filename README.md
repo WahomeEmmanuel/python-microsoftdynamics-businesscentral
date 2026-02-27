@@ -17,13 +17,6 @@ Create a .env file in the root directory. Replace the placeholders with your spe
 | BC_ENVIRONMENT | Sandbox or Production |
 | BC_COMPANY_ID | your_target_company_guid |
 
-Example .env:
-AZURE_CLIENT_ID=
-AZURE_CLIENT_SECRET=
-AZURE_TENANT_ID=
-BC_ENVIRONMENT=Sandbox
-BC_COMPANY_ID=
-
 ### 2. Install Requirements
 Ensure you have your virtual environment active, then install the necessary dependencies:
 
