@@ -4,7 +4,7 @@ This module handles the Service-to-Service (S2S) authentication and data retriev
 
 ---
 
-## 🛠️ Setup Requirements
+## Setup Requirements
 
 ### 1. Environment Variables
 Create a .env file in the root directory. Replace the placeholders with your specific Azure and Business Central credentials:
