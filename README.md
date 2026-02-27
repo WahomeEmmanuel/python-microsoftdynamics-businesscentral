@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage Example
+## Usage Example
 
 The BusinessCentralService class manages token acquisition and API requests automatically.
 
@@ -46,5 +46,5 @@ print(data)
 
 ---
 
-## 🔒 Security
+## Security
 Do not commit your .env file to your repository. Ensure it is listed in your .gitignore to prevent leaking sensitive Azure credentials.
